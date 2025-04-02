@@ -1,0 +1,962 @@
+[
+    {
+        "id": 1,
+        "section": "A",
+        "text": "Which type of contract is not a \"cost plus\" contract?",
+        "options": [
+            "Cost plus fixed fee",
+            "Cost plus incentive fee",
+            "Cost and fixed assets",
+            "Cost plus percentage of cost"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 2,
+        "section": "A",
+        "text": "In which year was the first expert system developed?",
+        "options": [
+            "1960",
+            "1965",
+            "1970",
+            "1975"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 3,
+        "section": "A",
+        "text": "What is the correct symbol for first angle projection?",
+        "options": [
+            "\u22a5",
+            "\u2220",
+            "\u22bf",
+            "\u22a4"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 4,
+        "section": "A",
+        "text": "What is another name for a simple SR flip-flop?",
+        "options": [
+            "A monostable multivibrator",
+            "A bistable multivibrator",
+            "An astable multivibrator",
+            "A Schmitt trigger"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 5,
+        "section": "A",
+        "text": "What is an alternative name for pipelining?",
+        "options": [
+            "Assembly line operation",
+            "Parallel processing",
+            "Sequential execution",
+            "Batch processing"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 6,
+        "section": "A",
+        "text": "How many interrupts are there in the 8085 microprocessor?",
+        "options": [
+            "5",
+            "8",
+            "10",
+            "13"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 7,
+        "section": "A",
+        "text": "Which of the following is not a non-maskable interrupt?",
+        "options": [
+            "TRAP",
+            "RST 7.5",
+            "RST 6.5",
+            "RST 5.5"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 8,
+        "section": "A",
+        "text": "What is the relationship between terminal voltage and emf?",
+        "options": [
+            "Terminal voltage is equal to emf",
+            "Terminal voltage is greater than emf",
+            "Terminal voltage is less than emf",
+            "There is no relationship between terminal voltage and emf"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 9,
+        "section": "A",
+        "text": "If a delta connection has 3 ohms resistance, what is the equivalent resistance in star connection?",
+        "options": [
+            "1 ohm",
+            "3 ohms",
+            "9 ohms",
+            "27 ohms"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 10,
+        "section": "A",
+        "text": "What type of learning algorithm is Naive Bayes?",
+        "options": [
+            "Unsupervised",
+            "Supervised",
+            "Reinforcement",
+            "Semi-supervised"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 11,
+        "section": "A",
+        "text": "What does the Karnaugh Map simplify?",
+        "options": [
+            "Multiplexer operations",
+            "Boolean algebra expressions",
+            "Flip-flop circuits",
+            "Number systems"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 12,
+        "section": "A",
+        "text": "Which of the following protocols does not operate in the Application layer of the OSI model?",
+        "options": [
+            "HTTP",
+            "FTP",
+            "SMTP",
+            "ARP"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 13,
+        "section": "A",
+        "text": "What is the default subnet mask of a Class B IP address?",
+        "options": [
+            "255.0.0.0",
+            "255.255.0.0",
+            "255.255.255.0",
+            "255.255.255.255"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 14,
+        "section": "A",
+        "text": "Which logic gate outputs true only when both inputs are different?",
+        "options": [
+            "XOR",
+            "OR",
+            "AND",
+            "NAND"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 15,
+        "section": "A",
+        "text": "Which memory is non-volatile?",
+        "options": [
+            "RAM",
+            "Cache",
+            "ROM",
+            "Register"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 16,
+        "section": "A",
+        "text": "Which of these is a high-level programming language?",
+        "options": [
+            "Machine Code",
+            "Assembly",
+            "Python",
+            "Microcode"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 17,
+        "section": "A",
+        "text": "What is the main purpose of a compiler?",
+        "options": [
+            "To execute the program line by line",
+            "To convert high-level language to machine code",
+            "To interpret instructions",
+            "To debug the code"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 18,
+        "section": "A",
+        "text": "What component connects CPU and memory for data transfer?",
+        "options": [
+            "Power Bus",
+            "Control Bus",
+            "Data Bus",
+            "Address Bus"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 19,
+        "section": "A",
+        "text": "Which OSI layer handles routing and forwarding?",
+        "options": [
+            "Data Link",
+            "Transport",
+            "Network",
+            "Session"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 20,
+        "section": "A",
+        "text": "Which sorting algorithm has the best average-case time complexity?",
+        "options": [
+            "Bubble Sort",
+            "Insertion Sort",
+            "Merge Sort",
+            "Selection Sort"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 21,
+        "section": "A",
+        "text": "Which of the following is not an operating system?",
+        "options": [
+            "Windows",
+            "Linux",
+            "Oracle",
+            "macOS"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 22,
+        "section": "A",
+        "text": "Which device works on the physical layer of the OSI model?",
+        "options": [
+            "Router",
+            "Switch",
+            "Hub",
+            "Bridge"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 23,
+        "section": "A",
+        "text": "Which of the following is an example of volatile memory?",
+        "options": [
+            "ROM",
+            "Flash",
+            "EEPROM",
+            "RAM"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 24,
+        "section": "A",
+        "text": "What does IP stand for in networking?",
+        "options": [
+            "Internet Protocol",
+            "Internal Protocol",
+            "Interface Program",
+            "Internet Port"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 25,
+        "section": "A",
+        "text": "What is the binary equivalent of decimal number 15?",
+        "options": [
+            "1110",
+            "1101",
+            "1111",
+            "1010"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 26,
+        "section": "A",
+        "text": "Which data structure uses LIFO (Last In, First Out)?",
+        "options": [
+            "Queue",
+            "Array",
+            "Stack",
+            "Tree"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 27,
+        "section": "A",
+        "text": "Which register is used to store the address of the next instruction to be executed?",
+        "options": [
+            "Instruction Register",
+            "Program Counter",
+            "Memory Address Register",
+            "Accumulator"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 28,
+        "section": "A",
+        "text": "Which one of the following is used to uniquely identify a record in a table?",
+        "options": [
+            "Foreign key",
+            "Secondary key",
+            "Primary key",
+            "Candidate key"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 29,
+        "section": "A",
+        "text": "Which HTML tag is used to display a picture on a web page?",
+        "options": [
+            "<img>",
+            "<src>",
+            "<pic>",
+            "<image>"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 30,
+        "section": "A",
+        "text": "Which SQL statement is used to extract data from a database?",
+        "options": [
+            "GET",
+            "OPEN",
+            "SELECT",
+            "EXTRACT"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 31,
+        "section": "A",
+        "text": "Which one of the following is not a database model?",
+        "options": [
+            "Hierarchical",
+            "Network",
+            "Relational",
+            "Functional"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 32,
+        "section": "A",
+        "text": "Which of the following is used to create web pages?",
+        "options": [
+            "HTML",
+            "C++",
+            "Python",
+            "Java"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 33,
+        "section": "A",
+        "text": "Which transmission mode allows data to be sent in both directions simultaneously?",
+        "options": [
+            "Simplex",
+            "Half-duplex",
+            "Full-duplex",
+            "Multiplex"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 34,
+        "section": "A",
+        "text": "Which one is not a characteristic of RISC architecture?",
+        "options": [
+            "Large instruction set",
+            "Few addressing modes",
+            "Single-cycle instruction execution",
+            "Hardwired control"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 35,
+        "section": "A",
+        "text": "Which circuit can store a binary value?",
+        "options": [
+            "Logic gate",
+            "Flip-flop",
+            "Multiplexer",
+            "Demultiplexer"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 36,
+        "section": "A",
+        "text": "What does GUI stand for?",
+        "options": [
+            "Graphical User Interface",
+            "General User Interface",
+            "Graphics Usage Interface",
+            "Global User Interface"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 37,
+        "section": "A",
+        "text": "Which of the following is not a computer network topology?",
+        "options": [
+            "Star",
+            "Bus",
+            "Circle",
+            "Ring"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 38,
+        "section": "A",
+        "text": "Which of these is not a primary function of an operating system?",
+        "options": [
+            "Managing hardware",
+            "Providing user interface",
+            "Compiling code",
+            "File management"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 39,
+        "section": "A",
+        "text": "Which symbol is used in C language to denote a preprocessor directive?",
+        "options": [
+            "@",
+            "#",
+            "$",
+            "&"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 40,
+        "section": "A",
+        "text": "Which of the following is not a Java keyword?",
+        "options": [
+            "static",
+            "try",
+            "Integer",
+            "class"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 41,
+        "section": "A",
+        "text": "What is the value of 2's complement of binary number 0101?",
+        "options": [
+            "1011",
+            "1111",
+            "1101",
+            "1010"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 42,
+        "section": "A",
+        "text": "Which logic gate is called a universal gate?",
+        "options": [
+            "AND",
+            "OR",
+            "NAND",
+            "XOR"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 43,
+        "section": "A",
+        "text": "What is the main purpose of an ALU?",
+        "options": [
+            "Store data",
+            "Perform arithmetic and logic operations",
+            "Control program execution",
+            "Manage memory"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 44,
+        "section": "A",
+        "text": "Which one is not a component of the CPU?",
+        "options": [
+            "ALU",
+            "CU",
+            "Register",
+            "Mouse"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 45,
+        "section": "A",
+        "text": "What is the smallest unit of data in a computer?",
+        "options": [
+            "Byte",
+            "Bit",
+            "Word",
+            "Nibble"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 46,
+        "section": "A",
+        "text": "Which number system uses only 0 and 1?",
+        "options": [
+            "Decimal",
+            "Octal",
+            "Binary",
+            "Hexadecimal"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 47,
+        "section": "A",
+        "text": "Which data structure uses FIFO (First In, First Out)?",
+        "options": [
+            "Stack",
+            "Queue",
+            "Array",
+            "Linked list"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 48,
+        "section": "A",
+        "text": "What type of software is an operating system?",
+        "options": [
+            "Application",
+            "System",
+            "Utility",
+            "Compiler"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 49,
+        "section": "A",
+        "text": "Which protocol is used to send email?",
+        "options": [
+            "FTP",
+            "SMTP",
+            "HTTP",
+            "SNMP"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 50,
+        "section": "A",
+        "text": "Which programming language is used for web development?",
+        "options": [
+            "C",
+            "HTML",
+            "COBOL",
+            "FORTRAN"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 51,
+        "section": "A",
+        "text": "Which network device uses MAC addresses to forward data?",
+        "options": [
+            "Router",
+            "Switch",
+            "Hub",
+            "Modem"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 52,
+        "section": "A",
+        "text": "What is the hexadecimal representation of binary 1010?",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 53,
+        "section": "A",
+        "text": "Which of the following is not a web browser?",
+        "options": [
+            "Chrome",
+            "Firefox",
+            "Safari",
+            "Linux"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 54,
+        "section": "A",
+        "text": "Which language is primarily used for artificial intelligence?",
+        "options": [
+            "LISP",
+            "COBOL",
+            "Pascal",
+            "BASIC"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 55,
+        "section": "A",
+        "text": "Which one is not a type of computer memory?",
+        "options": [
+            "ROM",
+            "RAM",
+            "CPU",
+            "Cache"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 56,
+        "section": "A",
+        "text": "What is the default port number for HTTP?",
+        "options": [
+            "80",
+            "21",
+            "25",
+            "443"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 57,
+        "section": "A",
+        "text": "Which layer in OSI model encrypts data?",
+        "options": [
+            "Presentation",
+            "Session",
+            "Application",
+            "Transport"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 58,
+        "section": "A",
+        "text": "Which command is used to view directory contents in Linux?",
+        "options": [
+            "cd",
+            "ls",
+            "pwd",
+            "rm"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 59,
+        "section": "A",
+        "text": "Which one is not a component of a database management system?",
+        "options": [
+            "Query processor",
+            "Transaction manager",
+            "Compiler",
+            "File manager"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 60,
+        "section": "A",
+        "text": "Which logic gate outputs true only if all inputs are true?",
+        "options": [
+            "OR",
+            "NAND",
+            "AND",
+            "XOR"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 61,
+        "section": "B",
+        "text": "Which sorting algorithm has worst case time complexity of O(n log n)?",
+        "options": [
+            "Merge Sort",
+            "Quick Sort",
+            "Bubble Sort",
+            "Selection Sort"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 62,
+        "section": "B",
+        "text": "In software engineering, what does MVC stand for?",
+        "options": [
+            "Model View Controller",
+            "Main Virtual Control",
+            "Module Vector Configuration",
+            "Managed View Component"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 63,
+        "section": "B",
+        "text": "Which data structure is used for implementing recursion?",
+        "options": [
+            "Queue",
+            "Stack",
+            "Linked List",
+            "Array"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 64,
+        "section": "B",
+        "text": "Which logic gate outputs false when both inputs are the same?",
+        "options": [
+            "OR",
+            "AND",
+            "XOR",
+            "NAND"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 65,
+        "section": "B",
+        "text": "Which programming paradigm is used in LISP?",
+        "options": [
+            "Object-Oriented",
+            "Functional",
+            "Procedural",
+            "Logical"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 66,
+        "section": "B",
+        "text": "Which protocol is used for secure communication over the internet?",
+        "options": [
+            "HTTP",
+            "FTP",
+            "HTTPS",
+            "SMTP"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 67,
+        "section": "B",
+        "text": "What does RAID stand for in storage systems?",
+        "options": [
+            "Redundant Array of Independent Disks",
+            "Rapid Access Internal Disks",
+            "Random Allocation of Indexed Data",
+            "Reliable Access for Integrated Data"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 68,
+        "section": "B",
+        "text": "Which method is used to allocate memory in C?",
+        "options": [
+            "malloc",
+            "new",
+            "alloc",
+            "create"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 69,
+        "section": "B",
+        "text": "Which of the following is not a part of SDLC?",
+        "options": [
+            "Testing",
+            "Analysis",
+            "Implementation",
+            "Marketing"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 70,
+        "section": "B",
+        "text": "Which SQL command is used to remove a table from the database?",
+        "options": [
+            "REMOVE",
+            "DELETE",
+            "DROP",
+            "TRUNCATE"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 71,
+        "section": "B",
+        "text": "Which of these is a dynamic data structure?",
+        "options": [
+            "Array",
+            "Linked List",
+            "Stack",
+            "Queue"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 72,
+        "section": "B",
+        "text": "Which of these is used for version control?",
+        "options": [
+            "Git",
+            "Java",
+            "HTML",
+            "Python"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 73,
+        "section": "B",
+        "text": "Which type of testing ensures the software meets the business requirements?",
+        "options": [
+            "Unit Testing",
+            "Integration Testing",
+            "System Testing",
+            "Acceptance Testing"
+        ],
+        "answer": 3
+    },
+    {
+        "id": 74,
+        "section": "B",
+        "text": "What does DNS stand for?",
+        "options": [
+            "Domain Number System",
+            "Domain Name System",
+            "Digital Network System",
+            "Data Name Service"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 75,
+        "section": "B",
+        "text": "What is the output of 6 + '6' in JavaScript?",
+        "options": [
+            "12",
+            "66",
+            "'66'",
+            "Error"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 76,
+        "section": "B",
+        "text": "Which part of the computer performs calculations and logic operations?",
+        "options": [
+            "CU",
+            "RAM",
+            "ALU",
+            "ROM"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 77,
+        "section": "B",
+        "text": "Which software development model uses iterative approach?",
+        "options": [
+            "Waterfall",
+            "Spiral",
+            "V-Model",
+            "Big Bang"
+        ],
+        "answer": 1
+    },
+    {
+        "id": 78,
+        "section": "B",
+        "text": "Which command is used to change file permissions in Linux?",
+        "options": [
+            "chmod",
+            "chown",
+            "mv",
+            "rm"
+        ],
+        "answer": 0
+    },
+    {
+        "id": 79,
+        "section": "B",
+        "text": "Which of these is not a NoSQL database?",
+        "options": [
+            "MongoDB",
+            "Cassandra",
+            "MySQL",
+            "Redis"
+        ],
+        "answer": 2
+    },
+    {
+        "id": 80,
+        "section": "B",
+        "text": "What is the main role of a firewall?",
+        "options": [
+            "Virus detection",
+            "Spam filtering",
+            "Packet filtering",
+            "IP addressing"
+        ],
+        "answer": 2
+    }
+]
