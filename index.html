@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <base href="/">
+    <title>Computer Engineering License Exam</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+  <!-- Header -->
+  <div class="header">
+    <div class="header-content">
+      <div class="header-top">
+        <div class="header-item">
+          <i class="fas fa-clock"></i> Time: <span id="timer">03:00:00</span>
+        </div>
+        <div class="header-item">
+          <i class="fas fa-check-circle"></i> Attempted: <span id="attempted">0</span>/<span id="totalQuestions">0</span>
+        </div>
+        <div class="header-item">
+          <i class="fas fa-star"></i> Score: <span id="current-score">0</span>/100
+        </div>
+      </div>
+      <div class="progress-container">
+        <div class="progress-bar" id="progressBar" style="width: 0%"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Set Selection Screen -->
+  <div id="set-selection-screen" class="welcome-screen">
+    <h1>Select Exam Set</h1>
+    <p>Choose a question set to begin your Computer Engineering License Exam.</p>
+    <div class="set-options">
+      <button class="start-btn" onclick="selectSet('nec_questions_set1')">NEC Set 1</button>
+    </div>
+  </div>
+
+  <!-- Welcome Screen (Hidden Initially) -->
+  <div id="welcome-screen" class="welcome-screen" style="display: none;">
+    <h1>Computer Engineering License Exam</h1>
+    <p>This exam will test your knowledge and skills in various areas of computer engineering.</p>
+    <div class="welcome-info">
+      <h3>Examination Details:</h3>
+      <ul>
+        <li><i class="fas fa-clock"></i> Duration: 3 hours</li>
+        <li><i class="fas fa-list-ol"></i> Total Questions: <span id="total-questions-display">0</span></li>
+        <li><i class="fas fa-layer-group"></i> Section A: 60 questions (1 mark each)</li>
+        <li><i class="fas fa-layer-group"></i> Section B: 20 questions (2 marks each)</li>
+        <li><i class="fas fa-check-double"></i> Passing Score: 60%</li>
+      </ul>
+    </div>
+    <button class="start-btn" onclick="startExam()">
+      <i class="fas fa-play"></i> Start Exam
+    </button>
+  </div>
+
+  <!-- Exam Container -->
+  <div class="container" id="container" style="display:none;"></div>
+
+  <!-- Submit Button -->
+  <button id="submit-btn" class="submit-btn" onclick="calculateScore()">
+    <i class="fas fa-paper-plane"></i> Submit Exam
+  </button>
+
+  <!-- Floating Submit FAB -->
+  <div class="fab" id="fabSubmit" onclick="calculateScore()">
+    <i class="fas fa-paper-plane"></i>
+  </div>
+
+  <!-- Result Modal -->
+  <div class="result-modal" id="resultModal">
+    <div class="result-content">
+      <h2>Exam Results</h2>
+      <div class="score-display"><span id="final-score">0</span>/100</div>
+      <div id="section-scores"></div>
+      <button class="close-btn" onclick="document.getElementById('resultModal').style.display='none'">
+        <i class="fas fa-times"></i> Close
+      </button>
+      <button class="start-btn" onclick="restartExam()">
+        <i class="fas fa-redo"></i> Retake Exam
+      </button>
+    </div>
+  </div>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
