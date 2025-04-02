@@ -9,7 +9,8 @@
             "Cost and fixed assets",
             "Cost plus percentage of cost"
         ],
-        "answer": 2
+        "answer": 2,
+        "images": null
     },
     {
         "id": 2,
@@ -21,7 +22,8 @@
             "1970",
             "1975"
         ],
-        "answer": 1
+        "answer": 1,
+        "images": null
     },
     {
         "id": 3,
@@ -33,7 +35,8 @@
             "\u22bf",
             "\u22a4"
         ],
-        "answer": 0
+        "answer": 0,
+        "images": null
     },
     {
         "id": 4,
@@ -45,7 +48,8 @@
             "An astable multivibrator",
             "A Schmitt trigger"
         ],
-        "answer": 1
+        "answer": 1,
+        "images": null
     },
     {
         "id": 5,
@@ -57,7 +61,8 @@
             "Sequential execution",
             "Batch processing"
         ],
-        "answer": 0
+        "answer": 0,
+        "images": null
     },
     {
         "id": 6,
@@ -69,7 +74,8 @@
             "10",
             "13"
         ],
-        "answer": 3
+        "answer": 3,
+        "images": null
     },
     {
         "id": 7,
@@ -81,7 +87,8 @@
             "RST 6.5",
             "RST 5.5"
         ],
-        "answer": 0
+        "answer": 0,
+        "images": null
     },
     {
         "id": 8,
@@ -93,7 +100,8 @@
             "Terminal voltage is less than emf",
             "There is no relationship between terminal voltage and emf"
         ],
-        "answer": 2
+        "answer": 2,
+        "images": null
     },
     {
         "id": 9,
@@ -105,7 +113,8 @@
             "9 ohms",
             "27 ohms"
         ],
-        "answer": 0
+        "answer": 0,
+        "images": null
     },
     {
         "id": 10,
@@ -117,7 +126,8 @@
             "Reinforcement",
             "Semi-supervised"
         ],
-        "answer": 1
+        "answer": 1,
+        "images": null
     },
     {
         "id": 11,
@@ -129,7 +139,8 @@
             "Flip-flop circuits",
             "Number systems"
         ],
-        "answer": 1
+        "answer": 1,
+        "images": null
     },
     {
         "id": 12,
@@ -141,7 +152,8 @@
             "SMTP",
             "ARP"
         ],
-        "answer": 3
+        "answer": 3,
+        "images": null
     },
     {
         "id": 13,
@@ -153,7 +165,8 @@
             "255.255.255.0",
             "255.255.255.255"
         ],
-        "answer": 1
+        "answer": 1,
+        "images": null
     },
     {
         "id": 14,
@@ -165,7 +178,8 @@
             "AND",
             "NAND"
         ],
-        "answer": 0
+        "answer": 0,
+        "images": null
     },
     {
         "id": 15,
@@ -177,7 +191,8 @@
             "ROM",
             "Register"
         ],
-        "answer": 2
+        "answer": 2,
+        "images": null
     },
     {
         "id": 16,
@@ -189,7 +204,8 @@
             "Python",
             "Microcode"
         ],
-        "answer": 2
+        "answer": 2,
+        "images": null
     },
     {
         "id": 17,
@@ -201,7 +217,8 @@
             "To interpret instructions",
             "To debug the code"
         ],
-        "answer": 1
+        "answer": 1,
+        "images": null
     },
     {
         "id": 18,
@@ -213,7 +230,8 @@
             "Data Bus",
             "Address Bus"
         ],
-        "answer": 2
+        "answer": 2,
+        "images": null
     },
     {
         "id": 19,
@@ -225,7 +243,8 @@
             "Network",
             "Session"
         ],
-        "answer": 2
+        "answer": 2,
+        "images": null
     },
     {
         "id": 20,
@@ -237,7 +256,8 @@
             "Merge Sort",
             "Selection Sort"
         ],
-        "answer": 2
+        "answer": 2,
+        "images": null
     },
     {
         "id": 21,
@@ -249,7 +269,8 @@
             "Oracle",
             "macOS"
         ],
-        "answer": 2
+        "answer": 2,
+        "images": null
     },
     {
         "id": 22,
@@ -261,7 +282,8 @@
             "Hub",
             "Bridge"
         ],
-        "answer": 2
+        "answer": 2,
+        "images": null
     },
     {
         "id": 23,
@@ -273,7 +295,8 @@
             "EEPROM",
             "RAM"
         ],
-        "answer": 3
+        "answer": 3,
+        "images": null
     },
     {
         "id": 24,
@@ -285,7 +308,8 @@
             "Interface Program",
             "Internet Port"
         ],
-        "answer": 0
+        "answer": 0,
+        "images": null
     },
     {
         "id": 25,
@@ -297,7 +321,8 @@
             "1111",
             "1010"
         ],
-        "answer": 2
+        "answer": 2,
+        "images": null
     },
     {
         "id": 26,
@@ -309,7 +334,8 @@
             "Stack",
             "Tree"
         ],
-        "answer": 2
+        "answer": 2,
+        "images": null
     },
     {
         "id": 27,
@@ -321,7 +347,8 @@
             "Memory Address Register",
             "Accumulator"
         ],
-        "answer": 1
+        "answer": 1,
+        "images": null
     },
     {
         "id": 28,
@@ -333,7 +360,8 @@
             "Primary key",
             "Candidate key"
         ],
-        "answer": 2
+        "answer": 2,
+        "images": null
     },
     {
         "id": 29,
@@ -345,7 +373,8 @@
             "<pic>",
             "<image>"
         ],
-        "answer": 0
+        "answer": 0,
+        "images": null
     },
     {
         "id": 30,
@@ -357,7 +386,8 @@
             "SELECT",
             "EXTRACT"
         ],
-        "answer": 2
+        "answer": 2,
+        "images": null
     },
     {
         "id": 31,
@@ -369,7 +399,8 @@
             "Relational",
             "Functional"
         ],
-        "answer": 3
+        "answer": 3,
+        "images": null
     },
     {
         "id": 32,
@@ -381,7 +412,8 @@
             "Python",
             "Java"
         ],
-        "answer": 0
+        "answer": 0,
+        "images": null
     },
     {
         "id": 33,
@@ -393,7 +425,8 @@
             "Full-duplex",
             "Multiplex"
         ],
-        "answer": 2
+        "answer": 2,
+        "images": null
     },
     {
         "id": 34,
@@ -405,7 +438,8 @@
             "Single-cycle instruction execution",
             "Hardwired control"
         ],
-        "answer": 0
+        "answer": 0,
+        "images": null
     },
     {
         "id": 35,
@@ -417,7 +451,8 @@
             "Multiplexer",
             "Demultiplexer"
         ],
-        "answer": 1
+        "answer": 1,
+        "images": null
     },
     {
         "id": 36,
@@ -429,7 +464,8 @@
             "Graphics Usage Interface",
             "Global User Interface"
         ],
-        "answer": 0
+        "answer": 0,
+        "images": null
     },
     {
         "id": 37,
@@ -441,7 +477,8 @@
             "Circle",
             "Ring"
         ],
-        "answer": 2
+        "answer": 2,
+        "images": null
     },
     {
         "id": 38,
@@ -453,7 +490,8 @@
             "Compiling code",
             "File management"
         ],
-        "answer": 2
+        "answer": 2,
+        "images": null
     },
     {
         "id": 39,
@@ -465,7 +503,8 @@
             "$",
             "&"
         ],
-        "answer": 1
+        "answer": 1,
+        "images": null
     },
     {
         "id": 40,
@@ -477,7 +516,8 @@
             "Integer",
             "class"
         ],
-        "answer": 2
+        "answer": 2,
+        "images": null
     },
     {
         "id": 41,
@@ -489,7 +529,8 @@
             "1101",
             "1010"
         ],
-        "answer": 0
+        "answer": 0,
+        "images": null
     },
     {
         "id": 42,
@@ -501,7 +542,8 @@
             "NAND",
             "XOR"
         ],
-        "answer": 2
+        "answer": 2,
+        "images": null
     },
     {
         "id": 43,
@@ -513,7 +555,8 @@
             "Control program execution",
             "Manage memory"
         ],
-        "answer": 1
+        "answer": 1,
+        "images": null
     },
     {
         "id": 44,
@@ -525,7 +568,8 @@
             "Register",
             "Mouse"
         ],
-        "answer": 3
+        "answer": 3,
+        "images": null
     },
     {
         "id": 45,
@@ -537,7 +581,8 @@
             "Word",
             "Nibble"
         ],
-        "answer": 1
+        "answer": 1,
+        "images": null
     },
     {
         "id": 46,
@@ -549,7 +594,8 @@
             "Binary",
             "Hexadecimal"
         ],
-        "answer": 2
+        "answer": 2,
+        "images": null
     },
     {
         "id": 47,
@@ -561,7 +607,8 @@
             "Array",
             "Linked list"
         ],
-        "answer": 1
+        "answer": 1,
+        "images": null
     },
     {
         "id": 48,
@@ -573,7 +620,8 @@
             "Utility",
             "Compiler"
         ],
-        "answer": 1
+        "answer": 1,
+        "images": null
     },
     {
         "id": 49,
@@ -585,7 +633,8 @@
             "HTTP",
             "SNMP"
         ],
-        "answer": 1
+        "answer": 1,
+        "images": null
     },
     {
         "id": 50,
@@ -597,7 +646,8 @@
             "COBOL",
             "FORTRAN"
         ],
-        "answer": 1
+        "answer": 1,
+        "images": null
     },
     {
         "id": 51,
@@ -609,7 +659,8 @@
             "Hub",
             "Modem"
         ],
-        "answer": 1
+        "answer": 1,
+        "images": null
     },
     {
         "id": 52,
@@ -621,7 +672,8 @@
             "C",
             "D"
         ],
-        "answer": 0
+        "answer": 0,
+        "images": null
     },
     {
         "id": 53,
@@ -633,7 +685,8 @@
             "Safari",
             "Linux"
         ],
-        "answer": 3
+        "answer": 3,
+        "images": null
     },
     {
         "id": 54,
@@ -645,7 +698,8 @@
             "Pascal",
             "BASIC"
         ],
-        "answer": 0
+        "answer": 0,
+        "images": null
     },
     {
         "id": 55,
@@ -657,7 +711,8 @@
             "CPU",
             "Cache"
         ],
-        "answer": 2
+        "answer": 2,
+        "images": null
     },
     {
         "id": 56,
@@ -669,7 +724,8 @@
             "25",
             "443"
         ],
-        "answer": 0
+        "answer": 0,
+        "images": null
     },
     {
         "id": 57,
@@ -681,7 +737,8 @@
             "Application",
             "Transport"
         ],
-        "answer": 0
+        "answer": 0,
+        "images": null
     },
     {
         "id": 58,
@@ -693,7 +750,8 @@
             "pwd",
             "rm"
         ],
-        "answer": 1
+        "answer": 1,
+        "images": null
     },
     {
         "id": 59,
@@ -705,7 +763,8 @@
             "Compiler",
             "File manager"
         ],
-        "answer": 2
+        "answer": 2,
+        "images": null
     },
     {
         "id": 60,
@@ -717,7 +776,8 @@
             "AND",
             "XOR"
         ],
-        "answer": 2
+        "answer": 2,
+        "images": null
     },
     {
         "id": 61,
@@ -729,7 +789,8 @@
             "Bubble Sort",
             "Selection Sort"
         ],
-        "answer": 0
+        "answer": 0,
+        "images": null
     },
     {
         "id": 62,
@@ -741,7 +802,8 @@
             "Module Vector Configuration",
             "Managed View Component"
         ],
-        "answer": 0
+        "answer": 0,
+        "images": null
     },
     {
         "id": 63,
@@ -753,7 +815,8 @@
             "Linked List",
             "Array"
         ],
-        "answer": 1
+        "answer": 1,
+        "images": null
     },
     {
         "id": 64,
@@ -765,7 +828,8 @@
             "XOR",
             "NAND"
         ],
-        "answer": 2
+        "answer": 2,
+        "images": null
     },
     {
         "id": 65,
@@ -777,7 +841,8 @@
             "Procedural",
             "Logical"
         ],
-        "answer": 1
+        "answer": 1,
+        "images": null
     },
     {
         "id": 66,
@@ -789,7 +854,8 @@
             "HTTPS",
             "SMTP"
         ],
-        "answer": 2
+        "answer": 2,
+        "images": null
     },
     {
         "id": 67,
@@ -801,7 +867,8 @@
             "Random Allocation of Indexed Data",
             "Reliable Access for Integrated Data"
         ],
-        "answer": 0
+        "answer": 0,
+        "images": null
     },
     {
         "id": 68,
@@ -813,7 +880,8 @@
             "alloc",
             "create"
         ],
-        "answer": 0
+        "answer": 0,
+        "images": null
     },
     {
         "id": 69,
@@ -825,7 +893,8 @@
             "Implementation",
             "Marketing"
         ],
-        "answer": 3
+        "answer": 3,
+        "images": null
     },
     {
         "id": 70,
@@ -837,7 +906,8 @@
             "DROP",
             "TRUNCATE"
         ],
-        "answer": 2
+        "answer": 2,
+        "images": null
     },
     {
         "id": 71,
@@ -849,7 +919,8 @@
             "Stack",
             "Queue"
         ],
-        "answer": 1
+        "answer": 1,
+        "images": null
     },
     {
         "id": 72,
@@ -861,7 +932,8 @@
             "HTML",
             "Python"
         ],
-        "answer": 0
+        "answer": 0,
+        "images": null
     },
     {
         "id": 73,
@@ -873,7 +945,8 @@
             "System Testing",
             "Acceptance Testing"
         ],
-        "answer": 3
+        "answer": 3,
+        "images": null
     },
     {
         "id": 74,
@@ -885,7 +958,8 @@
             "Digital Network System",
             "Data Name Service"
         ],
-        "answer": 1
+        "answer": 1,
+        "images": null
     },
     {
         "id": 75,
@@ -897,7 +971,8 @@
             "'66'",
             "Error"
         ],
-        "answer": 2
+        "answer": 2,
+        "images": null
     },
     {
         "id": 76,
@@ -909,7 +984,8 @@
             "ALU",
             "ROM"
         ],
-        "answer": 2
+        "answer": 2,
+        "images": null
     },
     {
         "id": 77,
@@ -921,7 +997,8 @@
             "V-Model",
             "Big Bang"
         ],
-        "answer": 1
+        "answer": 1,
+        "images": null
     },
     {
         "id": 78,
@@ -933,7 +1010,8 @@
             "mv",
             "rm"
         ],
-        "answer": 0
+        "answer": 0,
+        "images": null
     },
     {
         "id": 79,
@@ -945,7 +1023,8 @@
             "MySQL",
             "Redis"
         ],
-        "answer": 2
+        "answer": 2,
+        "images": null
     },
     {
         "id": 80,
@@ -957,6 +1036,7 @@
             "Packet filtering",
             "IP addressing"
         ],
-        "answer": 2
+        "answer": 2,
+        "images": null
     }
 ]

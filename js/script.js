@@ -6,23 +6,46 @@ document.addEventListener('DOMContentLoaded', () => {
     let timeLeft = 180 * 60; // 3 hours
     let timerInterval;
 
+    // Load available sets
+    fetch('questions/sets.json')
+        .then(res => res.json())
+        .then(sets => {
+            const setOptions = document.getElementById('set-options');
+            sets.forEach(set => {
+                setOptions.innerHTML += `
+                    <button class="start-btn" onclick="selectSet('${set.id}')">${set.name}</button>
+                `;
+            });
+        })
+        .catch(err => {
+            console.error('Failed to load sets.json:', err);
+            alert('Failed to load exam sets. Please refresh the page.');
+        });
+
     // Select exam set
-    window.selectSet = function(set) {
+    window.selectSet = function(setId) {
         document.getElementById('set-selection-screen').style.display = 'none';
         document.getElementById('welcome-screen').style.display = 'block';
         
-        // Load questions from nec_questions_set1.json
-        fetch(`questions/${set}.json`)
+        
+        fetch('questions/sets.json')
             .then(res => res.json())
-            .then(data => {
-                questions = data;
-                document.getElementById('totalQuestions').textContent = questions.length;
-                document.getElementById('total-questions-display').textContent = questions.length;
-            })
-            .catch(err => {
-                console.error(`Failed to load ${set}.json:`, err);
-                alert('Failed to load questions. Please try again.');
-                restartExam();
+            .then(sets => {
+                const selectedSet = sets.find(s => s.id === setId);
+                if (selectedSet) {
+                    fetch(`questions/${selectedSet.file}`)
+                        .then(res => res.json())
+                        .then(data => {
+                            questions = data;
+                            document.getElementById('totalQuestions').textContent = questions.length;
+                            document.getElementById('total-questions-display').textContent = questions.length;
+                        })
+                        .catch(err => {
+                            console.error(`Failed to load ${selectedSet.file}:`, err);
+                            alert('Failed to load questions. Please try again.');
+                            restartExam();
+                        });
+                }
             });
     };
 
@@ -47,6 +70,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <div class="question">
                   <h3>Question ${q.id} <small>(${q.section === 'A' ? '1 Mark' : '2 Marks'})</small></h3>
                   <p>${q.text}</p>
+                  ${q.image ? `<img src="images/${q.image}" alt="Question ${q.id} image" class="question-image">` : ''}
                   ${q.code ? `<pre><code>${q.code}</code></pre>` : ''}
                   <div class="options">
                     ${q.options.map((opt, i) => `
