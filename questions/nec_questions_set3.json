@@ -1,0 +1,1043 @@
+[
+    {
+      "id": 1,
+      "section": "A",
+      "text": "Which of the following is NOT a type of sequential logic circuit?",
+      "options": [
+        "Counter",
+        "Shift Register",
+        "Multiplexer",
+        "Flip-Flop"
+      ],
+      "answer": 2,
+      "images": null
+    },
+    {
+      "id": 2,
+      "section": "A",
+      "text": "What is the primary function of a network firewall?",
+      "options": [
+        "Virus detection",
+        "Data encryption",
+        "Access control",
+        "Data compression"
+      ],
+      "answer": 2,
+      "images": null
+    },
+    {
+      "id": 3,
+      "section": "A",
+      "text": "In VHDL, what does the keyword \"signal\" define?",
+      "options": [
+        "A variable",
+        "An interconnection between components",
+        "A constant",
+        "A function"
+      ],
+      "answer": 1,
+      "images": null
+    },
+    {
+      "id": 4,
+      "section": "A",
+      "text": "Which sorting algorithm has the worst-case time complexity of O(n2)?",
+      "options": [
+        "Merge sort",
+        "Quick sort",
+        "Heap sort",
+        "Bubble sort"
+      ],
+      "answer": 3,
+      "images": null
+    },
+    {
+      "id": 5,
+      "section": "A",
+      "text": "What is the main advantage of IPv6 over IPv4?",
+      "options": [
+        "Faster routing",
+        "Better security",
+        "Larger address space",
+        "Simplified headers"
+      ],
+      "answer": 2,
+      "images": null
+    },
+    {
+      "id": 6,
+      "section": "A",
+      "text": "Which normal form eliminates transitive dependencies?",
+      "options": [
+        "1NF",
+        "2NF",
+        "3NF",
+        "BCNF"
+      ],
+      "answer": 2,
+      "images": null
+    },
+    {
+      "id": 7,
+      "section": "A",
+      "text": "What is the primary benefit of using a multiprocessor system?",
+      "options": [
+        "Lower cost",
+        "Increased reliability",
+        "Higher throughput",
+        "Simplified programming"
+      ],
+      "answer": 2,
+      "images": null
+    },
+    {
+      "id": 8,
+      "section": "A",
+      "text": "In object-oriented programming, what is the process of hiding implementation details called?",
+      "options": [
+        "Inheritance",
+        "Polymorphism",
+        "Encapsulation",
+        "Abstraction"
+      ],
+      "answer": 2,
+      "images": null
+    },
+    {
+      "id": 9,
+      "section": "A",
+      "text": "Which of the following is a non-maskable interrupt in 8085 microprocessor?",
+      "options": [
+        "RST 5.5",
+        "RST 6.5",
+        "RST 7.5",
+        "TRAP"
+      ],
+      "answer": 3,
+      "images": null
+    },
+    {
+      "id": 10,
+      "section": "A",
+      "text": "What does the \"this\" pointer in C++ represent?",
+      "options": [
+        "Address of the current function",
+        "Address of the current object",
+        "Address of the base class",
+        "Address of the derived class"
+      ],
+      "answer": 1,
+      "images": null
+    },
+    {
+      "id": 11,
+      "section": "A",
+      "text": "Which layer of the OSI model is responsible for end-to-end communication?",
+      "options": [
+        "Network layer",
+        "Transport layer",
+        "Session layer",
+        "Data Link layer"
+      ],
+      "answer": 1,
+      "images": null
+    },
+    {
+      "id": 12,
+      "section": "A",
+      "text": "What type of learning is used in a decision tree algorithm?",
+      "options": [
+        "Supervised",
+        "Unsupervised",
+        "Reinforcement",
+        "Deep learning"
+      ],
+      "answer": 0,
+      "images": null
+    },
+    {
+      "id": 13,
+      "section": "A",
+      "text": "Which gate performs the operation Y = A'B + AB'?",
+      "options": [
+        "AND",
+        "OR",
+        "XOR",
+        "NAND"
+      ],
+      "answer": 2,
+      "images": null
+    },
+    {
+      "id": 14,
+      "section": "A",
+      "text": "What is the maximum number of nodes in a binary tree of height h?",
+      "options": [
+        "2^h",
+        "2^(h+1) - 1",
+        "2^h - 1",
+        "h^2"
+      ],
+      "answer": 1,
+      "images": null
+    },
+    {
+      "id": 15,
+      "section": "A",
+      "text": "In C++, which operator cannot be overloaded?",
+      "options": [
+        "+",
+        "[]",
+        "::",
+        "->"
+      ],
+      "answer": 2,
+      "images": null
+    },
+    {
+      "id": 16,
+      "section": "A",
+      "text": "What does ACID stand for in database transactions?",
+      "options": [
+        "Atomicity, Consistency, Isolation, Durability",
+        "Atomicity, Consistency, Integrity, Durability",
+        "Atomicity, Correctness, Isolation, Durability",
+        "Atomicity, Consistency, Isolation, Dependency"
+      ],
+      "answer": 0,
+      "images": null
+    },
+    {
+      "id": 17,
+      "section": "A",
+      "text": "Which memory has the highest access speed?",
+      "options": [
+        "Hard disk",
+        "RAM",
+        "Cache",
+        "Register"
+      ],
+      "answer": 3,
+      "images": null
+    },
+    {
+      "id": 18,
+      "section": "A",
+      "text": "What is the time complexity of binary search?",
+      "options": [
+        "O(n)",
+        "O(log n)",
+        "O(n log n)",
+        "O(n^2)"
+      ],
+      "answer": 1,
+      "images": null
+    },
+    {
+      "id": 19,
+      "section": "A",
+      "text": "Which projection type in computer graphics preserves parallel lines?",
+      "options": [
+        "Perspective",
+        "Orthographic",
+        "Oblique",
+        "Both b and c"
+      ],
+      "answer": 3,
+      "images": null
+    },
+    {
+      "id": 20,
+      "section": "A",
+      "text": "What is the full form of DMA in computer organization?",
+      "options": [
+        "Direct Memory Access",
+        "Dynamic Memory Allocation",
+        "Direct Module Addressing",
+        "Dynamic Memory Access"
+      ],
+      "answer": 0,
+      "images": null
+    },
+    {
+      "id": 21,
+      "section": "A",
+      "text": "Which model is used to determine if a computer can think like a human?",
+      "options": [
+        "Turing test",
+        "Bayesian network",
+        "Decision tree",
+        "Neural network"
+      ],
+      "answer": 0,
+      "images": null
+    },
+    {
+      "id": 22,
+      "section": "A",
+      "text": "What is the purpose of a mutex in operating systems?",
+      "options": [
+        "Memory management",
+        "Mutual exclusion",
+        "Process scheduling",
+        "File handling"
+      ],
+      "answer": 1,
+      "images": null
+    },
+    {
+      "id": 23,
+      "section": "A",
+      "text": "Which data structure is most suitable for implementing a priority queue?",
+      "options": [
+        "Array",
+        "Linked list",
+        "Heap",
+        "Stack"
+      ],
+      "answer": 2,
+      "images": null
+    },
+    {
+      "id": 24,
+      "section": "A",
+      "text": "In 8085 microprocessor, what is the size of the address bus?",
+      "options": [
+        "8 bits",
+        "16 bits",
+        "32 bits",
+        "64 bits"
+      ],
+      "answer": 1,
+      "images": null
+    },
+    {
+      "id": 25,
+      "section": "A",
+      "text": "Which of the following is NOT a method of process synchronization?",
+      "options": [
+        "Semaphores",
+        "Monitors",
+        "Mutual exclusion",
+        "Round-robin scheduling"
+      ],
+      "answer": 3,
+      "images": null
+    },
+    {
+      "id": 26,
+      "section": "A",
+      "text": "What type of grammar is recognized by a finite automaton?",
+      "options": [
+        "Type 0",
+        "Type 1",
+        "Type 2",
+        "Type 3"
+      ],
+      "answer": 3,
+      "images": null
+    },
+    {
+      "id": 27,
+      "section": "A",
+      "text": "Which class of IP address has the network prefix of 110?",
+      "options": [
+        "Class A",
+        "Class B",
+        "Class C",
+        "Class D"
+      ],
+      "answer": 2,
+      "images": null
+    },
+    {
+      "id": 28,
+      "section": "A",
+      "text": "What is the term for a software development approach that emphasizes frequent delivery and adaptability?",
+      "options": [
+        "Waterfall",
+        "Agile",
+        "Spiral",
+        "V-model"
+      ],
+      "answer": 1,
+      "images": null
+    },
+    {
+      "id": 29,
+      "section": "A",
+      "text": "In neural networks, which activation function outputs values between 0 and 1?",
+      "options": [
+        "ReLU",
+        "Sigmoid",
+        "Tanh",
+        "Softmax"
+      ],
+      "answer": 1,
+      "images": null
+    },
+    {
+      "id": 30,
+      "section": "A",
+      "text": "Which transformation operation preserves the angles and shapes?",
+      "options": [
+        "Translation",
+        "Rotation",
+        "Scaling",
+        "Shearing"
+      ],
+      "answer": 1,
+      "images": null
+    },
+    {
+      "id": 31,
+      "section": "A",
+      "text": "What is the result of the operation 1010 XOR 1100?",
+      "options": [
+        "0110",
+        "1110",
+        "0010",
+        "1111"
+      ],
+      "answer": 0,
+      "images": null
+    },
+    {
+      "id": 32,
+      "section": "A",
+      "text": "What is the default file opening mode in C programming?",
+      "options": [
+        "read",
+        "write",
+        "append",
+        "read and write"
+      ],
+      "answer": 0,
+      "images": null
+    },
+    {
+      "id": 33,
+      "section": "A",
+      "text": "Which of the following is NOT a characteristic of a RISC processor?",
+      "options": [
+        "Fixed instruction length",
+        "Many addressing modes",
+        "Register-to-register operations",
+        "Hardwired control unit"
+      ],
+      "answer": 1,
+      "images": null
+    },
+    {
+      "id": 34,
+      "section": "A",
+      "text": "What is the main purpose of normalization in database design?",
+      "options": [
+        "Improving query performance",
+        "Reducing data redundancy",
+        "Ensuring data security",
+        "Optimizing storage space"
+      ],
+      "answer": 1,
+      "images": null
+    },
+    {
+      "id": 35,
+      "section": "A",
+      "text": "Which networking protocol is used for secure shell connections?",
+      "options": [
+        "HTTP",
+        "FTP",
+        "SSH",
+        "SMTP"
+      ],
+      "answer": 2,
+      "images": null
+    },
+    {
+      "id": 36,
+      "section": "A",
+      "text": "What is the degree of a node in a graph?",
+      "options": [
+        "Number of adjacent nodes",
+        "Number of incoming edges",
+        "Number of outgoing edges",
+        "Height of the node"
+      ],
+      "answer": 0,
+      "images": null
+    },
+    {
+      "id": 37,
+      "section": "A",
+      "text": "In C++, what is the correct syntax to declare a constant pointer to a constant integer?",
+      "options": [
+        "const int* const ptr",
+        "int const* const ptr",
+        "const int* ptr const",
+        "int* const ptr"
+      ],
+      "answer": 0,
+      "images": null
+    },
+    {
+      "id": 38,
+      "section": "A",
+      "text": "Which algorithm is used for finding the shortest path in a weighted graph?",
+      "options": [
+        "Breadth-First Search",
+        "Depth-First Search",
+        "Dijkstra's Algorithm",
+        "Binary Search"
+      ],
+      "answer": 2,
+      "images": null
+    },
+    {
+      "id": 39,
+      "section": "A",
+      "text": "What is the main function of a compiler?",
+      "options": [
+        "Execute programs",
+        "Translate high-level code to machine code",
+        "Debug programs",
+        "Optimize memory usage"
+      ],
+      "answer": 1,
+      "images": null
+    },
+    {
+      "id": 40,
+      "section": "A",
+      "text": "Which scheduling algorithm has the shortest execution time as its priority?",
+      "options": [
+        "First-Come-First-Served",
+        "Round Robin",
+        "Shortest Job First",
+        "Priority Scheduling"
+      ],
+      "answer": 2,
+      "images": null
+    },
+    {
+      "id": 41,
+      "section": "A",
+      "text": "What does CMMI stand for in software quality?",
+      "options": [
+        "Capability Maturity Model Integration",
+        "Computer Managed Model Implementation",
+        "Capability Management Model Integration",
+        "Computer Maturity Model Interface"
+      ],
+      "answer": 0,
+      "images": null
+    },
+    {
+      "id": 42,
+      "section": "A",
+      "text": "Which layer in the OSI model handles frame formatting?",
+      "options": [
+        "Physical",
+        "Data Link",
+        "Network",
+        "Transport"
+      ],
+      "answer": 1,
+      "images": null
+    },
+    {
+      "id": 43,
+      "section": "A",
+      "text": "What is the purpose of a constructor in object-oriented programming?",
+      "options": [
+        "Memory allocation",
+        "Object initialization",
+        "Error handling",
+        "Data hiding"
+      ],
+      "answer": 1,
+      "images": null
+    },
+    {
+      "id": 44,
+      "section": "A",
+      "text": "Which of the following is a universal gate?",
+      "options": [
+        "AND",
+        "OR",
+        "NOT",
+        "NAND"
+      ],
+      "answer": 3,
+      "images": null
+    },
+    {
+      "id": 45,
+      "section": "A",
+      "text": "What is the relationship between a class and an object?",
+      "options": [
+        "An object is an instance of a class",
+        "A class is an instance of an object",
+        "Classes and objects are the same",
+        "There is no relationship"
+      ],
+      "answer": 0,
+      "images": null
+    },
+    {
+      "id": 46,
+      "section": "A",
+      "text": "What is the primary role of a virtual memory system?",
+      "options": [
+        "Speed up memory access",
+        "Increase apparent memory size",
+        "Improve CPU utilization",
+        "Enhance storage capacity"
+      ],
+      "answer": 1,
+      "images": null
+    },
+    {
+      "id": 47,
+      "section": "A",
+      "text": "Which algorithm is used in Artificial Neural Networks for learning?",
+      "options": [
+        "Greedy algorithm",
+        "Branch and bound",
+        "Backpropagation",
+        "A* search"
+      ],
+      "answer": 2,
+      "images": null
+    },
+    {
+      "id": 48,
+      "section": "A",
+      "text": "What is the algebraic form of De Morgan's first theorem?",
+      "options": [
+        "(A+B)' = A'·B'",
+        "(A·B)' = A'+B'",
+        "A+B = A'·B'",
+        "A·B = A'+B'"
+      ],
+      "answer": 0,
+      "images": null
+    },
+    {
+      "id": 49,
+      "section": "A",
+      "text": "Which type of inheritance allows a derived class to inherit from multiple base classes?",
+      "options": [
+        "Single inheritance",
+        "Multiple inheritance",
+        "Multilevel inheritance",
+        "Hierarchical inheritance"
+      ],
+      "answer": 1,
+      "images": null
+    },
+    {
+      "id": 50,
+      "section": "A",
+      "text": "What is the purpose of a thread in operating systems?",
+      "options": [
+        "Execute a program",
+        "Share resources",
+        "Lightweight process",
+        "Isolate processes"
+      ],
+      "answer": 2,
+      "images": null
+    },
+    {
+      "id": 51,
+      "section": "A",
+      "text": "Which protocol is used for secure web browsing?",
+      "options": [
+        "HTTP",
+        "HTTPS",
+        "FTP",
+        "SMTP"
+      ],
+      "answer": 1,
+      "images": null
+    },
+    {
+      "id": 52,
+      "section": "A",
+      "text": "What is the worst-case time complexity of quick sort?",
+      "options": [
+        "O(n)",
+        "O(n log n)",
+        "O(n^2)",
+        "O(2n)"
+      ],
+      "answer": 2,
+      "images": null
+    },
+    {
+      "id": 53,
+      "section": "A",
+      "text": "Which of the following is NOT a feature of object-oriented programming?",
+      "options": [
+        "Inheritance",
+        "Polymorphism",
+        "Encapsulation",
+        "Procedural programming"
+      ],
+      "answer": 3,
+      "images": null
+    },
+    {
+      "id": 54,
+      "section": "A",
+      "text": "What is a deadlock in operating systems?",
+      "options": [
+        "Process termination",
+        "Mutual waiting",
+        "CPU overload",
+        "Memory fragmentation"
+      ],
+      "answer": 1,
+      "images": null
+    },
+    {
+      "id": 55,
+      "section": "A",
+      "text": "Which data structure operates on the LIFO principle?",
+      "options": [
+        "Queue",
+        "Stack",
+        "Linked list",
+        "Tree"
+      ],
+      "answer": 1,
+      "images": null
+    },
+    {
+      "id": 56,
+      "section": "A",
+      "text": "What does SQL stand for?",
+      "options": [
+        "Structured Query Language",
+        "System Query Language",
+        "Standard Query Logic",
+        "Sequential Query Language"
+      ],
+      "answer": 0,
+      "images": null
+    },
+    {
+      "id": 57,
+      "section": "A",
+      "text": "Which of the following is NOT a property of a good hashing function?",
+      "options": [
+        "Uniformity",
+        "Deterministic",
+        "Reversible",
+        "Efficiency"
+      ],
+      "answer": 2,
+      "images": null
+    },
+    {
+      "id": 58,
+      "section": "A",
+      "text": "What is the primary advantage of using CMOS technology?",
+      "options": [
+        "High speed",
+        "Low power consumption",
+        "High storage capacity",
+        "High durability"
+      ],
+      "answer": 1,
+      "images": null
+    },
+    {
+      "id": 59,
+      "section": "A",
+      "text": "Which of the following is NOT a part of the CPU?",
+      "options": [
+        "ALU",
+        "Control unit",
+        "RAM",
+        "Registers"
+      ],
+      "answer": 2,
+      "images": null
+    },
+    {
+      "id": 60,
+      "section": "A",
+      "text": "What is the purpose of the \"friend\" keyword in C++?",
+      "options": [
+        "To access private members",
+        "To create inheritance",
+        "To implement polymorphism",
+        "To declare constants"
+      ],
+      "answer": 0,
+      "images": null
+    },
+    {
+      "id": 61,
+      "section": "B",
+      "text": "What is the output of the following C program?\nvoid main() {\n    int a = 10, b = 20;\n    printf(\"%d \", a++ + ++b);\n    printf(\"%d %d\", a, b);\n}",
+      "options": [
+        "31 11 21",
+        "32 11 21",
+        "31 10 21",
+        "32 10 21"
+      ],
+      "answer": 0,
+      "images": null
+    },
+    {
+      "id": 62,
+      "section": "B",
+      "text": "For the circuit below, what is the output when A=1, B=0, C=1?\n[Circuit with AND gate taking inputs A and B, output feeding into OR gate with input C]",
+      "options": [
+        "0",
+        "1",
+        "Undefined",
+        "Depends on timing"
+      ],
+      "answer": 1,
+      "images": null
+    },
+    {
+      "id": 63,
+      "section": "B",
+      "text": "What is the difference between a binary tree and a binary search tree?",
+      "options": [
+        "A binary tree can have any number of children while a binary search tree has at most two",
+        "A binary search tree has ordered nodes while a binary tree doesn't require ordering",
+        "A binary tree is balanced while a binary search tree may not be",
+        "There is no difference between them"
+      ],
+      "answer": 1,
+      "images": null
+    },
+    {
+      "id": 64,
+      "section": "B",
+      "text": "In which of the following cases would Dijkstra's algorithm fail to find the shortest path?",
+      "options": [
+        "Graph with cycles",
+        "Disconnected graph",
+        "Graph with negative edges",
+        "Directed graph"
+      ],
+      "answer": 2,
+      "images": null
+    },
+    {
+      "id": 65,
+      "section": "B",
+      "text": "What is the result of the following regular expression: (a|b)*ab?",
+      "options": [
+        "Strings of a's and b's ending with a, with an optional b at the end",
+        "Strings of a's and b's ending with ab",
+        "Strings of a's and b's containing the substring ab",
+        "Strings of a's and b's starting with ab"
+      ],
+      "answer": 1,
+      "images": null
+    },
+    {
+      "id": 66,
+      "section": "B",
+      "text": "Explain the difference between process and thread in operating systems.",
+      "options": [
+        "Processes share memory space while threads don't",
+        "Threads are independent execution units while processes aren't",
+        "Processes have separate memory spaces while threads share memory",
+        "Threads require more resources than processes"
+      ],
+      "answer": 2,
+      "images": null
+    },
+    {
+      "id": 67,
+      "section": "B",
+      "text": "What will be the result of the following SQL query?\nSELECT COUNT(*), AVG(salary) FROM employees WHERE department = 'IT' GROUP BY gender HAVING AVG(salary) > 50000;",
+      "options": [
+        "Count and average salary of IT employees grouped by gender where average salary is greater than 50000",
+        "Count and average salary of all employees grouped by gender",
+        "Count and average salary of IT employees",
+        "Error because aggregate functions cannot be nested"
+      ],
+      "answer": 0,
+      "images": null
+    },
+    {
+      "id": 68,
+      "section": "B",
+      "text": "What is the time complexity of searching for an element in a balanced binary search tree with n nodes?",
+      "options": [
+        "O(1)",
+        "O(log n)",
+        "O(n)",
+        "O(n log n)"
+      ],
+      "answer": 1,
+      "images": null
+    },
+    {
+      "id": 69,
+      "section": "B",
+      "text": "In a TCP/IP connection, what is the purpose of the three-way handshake?",
+      "options": [
+        "Data encryption",
+        "Connection establishment",
+        "Error detection",
+        "Flow control"
+      ],
+      "answer": 1,
+      "images": null
+    },
+    {
+      "id": 70,
+      "section": "B",
+      "text": "What is the output of the following C++ code?\n#include <iostream>\nusing namespace std;\nclass Base {\npublic:\n    virtual void show() { cout << \"Base \"; }\n};\nclass Derived : public Base {\npublic:\n    void show() { cout << \"Derived \"; }\n};\nint main() {\n    Base *ptr = new Derived();\n    ptr->show();\n    delete ptr;\n    return 0;\n}",
+      "options": [
+        "Base",
+        "Derived",
+        "Base Derived",
+        "No output"
+      ],
+      "answer": 1,
+      "images": null
+    },
+    {
+      "id": 71,
+      "section": "B",
+      "text": "Calculate the effective memory access time for a memory system with a cache hit ratio of 0.9, a cache access time of 10 ns, and a main memory access time of 100 ns.",
+      "options": [
+        "19 ns",
+        "90 ns",
+        "100 ns",
+        "110 ns"
+      ],
+      "answer": 0,
+      "images": null
+    },
+    {
+      "id": 72,
+      "section": "B",
+      "text": "What is the functionality of the following digital circuit?\n[Circuit with one D flip-flop with output feeding back to input through NOT gate]",
+      "options": [
+        "Counter",
+        "Shift register",
+        "Toggle flip-flop",
+        "Memory cell"
+      ],
+      "answer": 2,
+      "images": null
+    },
+    {
+      "id": 73,
+      "section": "B",
+      "text": "In object-oriented design, what pattern would you use when you need to create objects without exposing the creation logic?",
+      "options": [
+        "Observer pattern",
+        "Factory pattern",
+        "Decorator pattern",
+        "Singleton pattern"
+      ],
+      "answer": 1,
+      "images": null
+    },
+    {
+      "id": 74,
+      "section": "B",
+      "text": "What does the following recursive function calculate for positive integer n?\nint func(int n) {\n    if (n <= 1) return n;\n    return func(n-1) + func(n-2);\n}",
+      "options": [
+        "Factorial of n",
+        "Fibonacci number",
+        "Sum of numbers from 1 to n",
+        "2^n"
+      ],
+      "answer": 1,
+      "images": null
+    },
+    {
+      "id": 75,
+      "section": "B",
+      "text": "Which of the following routing protocols uses distance vector algorithm?",
+      "options": [
+        "OSPF",
+        "BGP",
+        "RIP",
+        "IS-IS"
+      ],
+      "answer": 2,
+      "images": null
+    },
+    {
+      "id": 76,
+      "section": "B",
+      "text": "What principle states that a subclass should be substitutable for its superclass without affecting the correctness of the program?",
+      "options": [
+        "Interface segregation principle",
+        "Dependency inversion principle",
+        "Liskov substitution principle",
+        "Single responsibility principle"
+      ],
+      "answer": 2,
+      "images": null
+    },
+    {
+      "id": 77,
+      "section": "B",
+      "text": "What are the ACID properties important for database transactions?",
+      "options": [
+        "They ensure data integrity and reliability in database operations",
+        "They define the structure and relationships in a database",
+        "They optimize query performance and execution",
+        "They manage user access and permissions"
+      ],
+      "answer": 0,
+      "images": null
+    },
+    {
+      "id": 78,
+      "section": "B",
+      "text": "How does virtual memory map logical addresses to physical addresses?",
+      "options": [
+        "Through direct mapping",
+        "Through page tables",
+        "Through segmentation",
+        "Through cache memory"
+      ],
+      "answer": 1,
+      "images": null
+    },
+    {
+      "id": 79,
+      "section": "B",
+      "text": "What is the primary purpose of a neural network's activation function?",
+      "options": [
+        "To normalize input data",
+        "To introduce non-linearity",
+        "To reduce dimensionality",
+        "To prevent overfitting"
+      ],
+      "answer": 1,
+      "images": null
+    },
+    {
+      "id": 80,
+      "section": "B",
+      "text": "For a project with a net present value (NPV) of $10,000, an internal rate of return (IRR) of 15%, and a minimum attractive rate of return (MARR) of 10%, what can be concluded?",
+      "options": [
+        "The project should be rejected as it is not financially viable",
+        "The project should be accepted as both NPV is positive and IRR > MARR",
+        "The project has neutral financial viability",
+        "More information is needed to make a decision"
+      ],
+      "answer": 1,
+      "images": null
+    }
+  ]
+  

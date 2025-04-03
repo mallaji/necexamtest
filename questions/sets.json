@@ -10,5 +10,23 @@
         "name": "NEC Set 2",
         "file": "nec_questions_set2.json",
         "description": "Advanced Computer Engineering Questions"
+    },
+    {
+        "id": "nec_questions_set3",
+        "name": "NEC Set 3",
+        "file": "nec_questions_set3.json",
+        "description": "Advanced Computer Engineering Questions"
+    },
+    {
+        "id": "nec_questions_set4",
+        "name": "NEC Set 4",
+        "file": "nec_questions_set4.json",
+        "description": "Advanced Computer Engineering Questions"
+    },
+    {
+        "id": "nec_questions_set5",
+        "name": "NEC Set 5",
+        "file": "nec_questions_set5.json",
+        "description": "Advanced Computer Engineering Questions"
     }
 ]
